@@ -1,0 +1,22 @@
+{
+    "name": "luoyy/aliyun-core-pns",
+    "description": "aliyun-php-sdk-core-pns",
+    "require": {
+        "php": ">=7.1.0",
+        "luoyy/aliyun-core": "^2.0"
+    },
+    "authors": [{
+        "name": "luoyy",
+        "email": "zishang520@gmail.com"
+    }],
+    "keywords": ["aliyun", "aliyun-dypns", "dypns", "laravel", "lumen"],
+    "support": {
+        "issues": "https://github.com/zishang520/aliyun-core-pns/issues",
+        "source": "https://github.com/zishang520/aliyun-core-pns"
+    },
+    "autoload": {
+        "psr-4": {
+            "luoyy\\AliCore\\Pns\\": "src/"
+        }
+    }
+}
